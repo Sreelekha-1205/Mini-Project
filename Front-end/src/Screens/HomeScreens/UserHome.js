@@ -43,7 +43,7 @@ function UserHome() {
                 {/* Restaurant 2 Button */}
                 <div class="relative ">
                     <img src={require("D:/Semester 8/Mini project/local/Mini-Project/Front-end/src/Images/Darling.jpg")} class="rounded-lg w-[400px] h-[300px]"></img>
-                    <h1 class="absolute text-5xl text-white top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 font-bold">Darling</h1>
+                    <h1 class="absolute text-5xl text-white top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 font-bold">jn</h1>
                 </div>
                 
                 </div>
